@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Al Fatta"
+    given-names: "Abdullah"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Colorado State University"
+title: "Quantifying Groundwater Depletion in the San Luis Valley, Colorado: Integrated In-Situ and Satellite-Based Approaches"
+version: 1.0.0
+doi: 10.xxxx/xxxxx
+date-released: 2025-01-15
+url: "https://github.com/yourusername/slv-groundwater-depletion"
+repository-code: "https://github.com/yourusername/slv-groundwater-depletion"
+keywords:
+  - groundwater
+  - depletion
+  - InSAR
+  - subsidence
+  - water balance
+  - San Luis Valley
+  - hydrogeology
+  - remote sensing
+  - Python
+license: MIT
+abstract: >
+  This repository contains Python scripts and datasets for quantifying
+  groundwater storage change in the San Luis Valley (SLV), Colorado,
+  using an integrated approach combining in-situ measurements and
+  satellite-based remote sensing. The study employs water-level
+  observations, pumping records, InSAR-derived land subsidence data,
+  and climate variables to characterize groundwater depletion across
+  multiple subdistricts. The methodology includes water balance
+  modeling, multivariate regression for aquifer property estimation,
+  and integration of fine-grained compaction from InSAR analysis.
+references:
+  - type: article
+    authors:
+      - family-names: "Al Fatta"
+        given-names: "Abdullah"
+    title: "Quantifying Groundwater Depletion in an Agricultural Region Using Integrated In-Situ and Satellite-Based Approaches: Insights from the San Luis Valley, CO"
+    journal: "Journal of Hydrology"
+    year: 2025
+    volume: XXX
+    issue: X
+    start: XXX
+    end: XXX
+    doi: "10.xxxx/xxxxx"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Al Fatta"
+      given-names: "Abdullah"
+  title: "Quantifying Groundwater Depletion in an Agricultural Region Using Integrated In-Situ and Satellite-Based Approaches: Insights from the San Luis Valley, CO"
+  journal: "Journal of Hydrology"
+  year: 2025
+  volume: XXX
+  start: XXX
+  end: XXX
+  doi: "10.xxxx/xxxxx"
