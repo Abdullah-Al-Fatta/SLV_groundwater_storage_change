@@ -286,13 +286,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Abdullah Al Fatta**  
 Ph.D. Candidate, Civil Engineering  
 Colorado State University  
-Email: [your.email@colostate.edu]  
-LinkedIn: [Your LinkedIn Profile]
+Email: abdullah.al_fatta@colostate.edu]  
+LinkedIn: https://www.linkedin.com/in/abdullahalfatta
 
 ## Related Publications
 
-1. [Related paper 1]
-2. [Related paper 2]
+1. Al Fatta, Abdullah and Smith, Ryan and Vajedian, Sanaz and Schreuder, Willem and Butler, James J., Quantifying Groundwater Depletion in an Agricultural Region Using Integrated In-Situ and Satellite-Based Approaches: Insights from the San Luis Valley, CO. Available at SSRN: http://dx.doi.org/10.2139/ssrn.5987334
 
 ## Project Status
 
