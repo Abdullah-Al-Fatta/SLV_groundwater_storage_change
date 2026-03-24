@@ -1,4 +1,4 @@
-# Quantifying Groundwater Depletion in the San Luis Valley, Colorado
+# Quantifying Groundwater Depletion in an Agricultural Region Using Integrated In-Situ and Satellite-Based Approaches: Insights from the San Luis Valley, CO
 
 [![DOI](https://img.shields.io/badge/DOI-10.xxxx%2Fxxxxxx-blue)](https://doi.org/10.xxxx/xxxxxx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
