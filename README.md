@@ -12,12 +12,12 @@ This repository contains Python scripts and datasets for quantifying groundwater
 - Water balance modeling with time-varying recharge coefficients
 - InSAR-based subsidence analysis for fine-grained aquifer compaction
 - Multivariate regression for storativity and recharge estimation
-- Integration of PRISM precipitation and USGS water-level data
+- Integration of PRISM precipitation
 - Comparative analysis across nine response areas in the SLV
 
 ## Study Area
 
-The San Luis Valley is a closed hydrologic basin in south-central Colorado covering approximately 8,000 km². The study focuses on groundwater systems within the Rio Grande Water Conservation District, encompassing:
+The San Luis Valley is a hydrologic basin in south-central Colorado covering approximately 8,000 km². The study focuses on groundwater systems within the Rio Grande Water Conservation District, encompassing:
 
 - **Alamosa/La Jara**: Confined aquifer system
 - **Saguache**: Northern portion with mixed confined/unconfined conditions
