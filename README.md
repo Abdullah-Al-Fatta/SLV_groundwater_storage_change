@@ -286,7 +286,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Abdullah Al Fatta**  
 Ph.D. Candidate, Civil Engineering  
 Colorado State University  
-Email: abdullah.al_fatta@colostate.edu]  
+Email: abdullah.al_fatta@colostate.edu  
 LinkedIn: https://www.linkedin.com/in/abdullahalfatta
 
 ## Related Publications
@@ -295,7 +295,7 @@ LinkedIn: https://www.linkedin.com/in/abdullahalfatta
 
 ## Project Status
 
-🚧 **Active Development** - This repository is associated with ongoing doctoral research. Updates are made regularly as analysis progresses.
+**Active Development** - This repository is associated with ongoing doctoral research. Updates are made regularly as analysis progresses.
 
 ---
 
