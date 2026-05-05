@@ -1,8 +1,6 @@
 # Quantifying Groundwater Depletion in an Agricultural Region Using Integrated In-Situ and Satellite-Based Approaches: Insights from the San Luis Valley, CO
 
-[![DOI](https://img.shields.io/badge/DOI-10.xxxx%2Fxxxxxx-blue)](https://doi.org/10.xxxx/xxxxxx)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+Paper Link: https://doi.org/10.1016/j.jhydrol.2026.135438
 
 ## Overview
 
